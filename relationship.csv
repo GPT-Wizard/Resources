@@ -1,7 +1,8 @@
 Entity1,Relationship,Entity2
 TY22029,can be used on,S100
-TY22029,is an,ENGINE OIL
-S100,can use,TY22029
-John Deere Turf-Gard,is a preferred oil by,John Deere
-John Deere Plus-4,is a preferred oil by,John Deere
-John Deere Plus-50,is a preferred oil by,John Deere
+TY25221B,is compatible for USA and canada,S100
+MCYP340PF,is not for USA and canada,S100
+X330,is compatible with,MCYP340PF
+S100,is compatible with,44-in.Snow Blower
+TY22029,is a preferred oil by,John Deere
+John Deere,has a,S100
