@@ -4,13 +4,12 @@ TY25221B,is suitable for,USA
 TY25221B,is suitable for,Canada
 MCYP340PF,is suitable outside,USA
 MCYP340PF,is suitable outside,Canada
-X330,is compatible with,MCYP340PF
 TY25221B,is compatible with,S100
 MCYP340PF,is compatible with,S100
-S100,is compatible with,44 Snow Blower
-S100,is compatible with,Edge
+44 Snow Blower,is compatible with,S100
+Edge,is compatible with,S100
 TY22029,is a preferred oil by,John Deere
 TY22029,has instruction,Recommended for lawn and garden tractors riding mowers and other outdoor equipment with four-cylinder gasoline engines. Available in SAE 10W-30 and SAW 5W-30. Multiple viscosity grades produce rapid oil circulation in both cold and hot weather.
 TY25221B,has instruction,John Deere factory tested battery. Maintenance free battery for maximum convenience. Anchored plates for superior vibration protection. Superior cold cranking amps for increased power in cold conditions
-Edge,has instruction,Removing Mower Blades: Park machine safely. (See Parking Safely in Safety section.) Raise mower deck to gain access to mower blades. If necessary remove mower deck. Block mower blade with a piece of wood to prevent it from spinning. Loosen and remove nut (A) washer (B) and blade (C). Inspect blades; sharpen balance or replace blades as necessary. Installing Mower Blades: Position mower blade (C) with the cutting edge towards the ground. Align the splined center hole in the blade with the splined spindle shaft (D) and put the blade onto the mower spindle shaft. Install washer with cupped side towards blade and install nut to secure blade onto splined spindle shaft. Block mower blade with a piece of wood to prevent spinning and tighten nut. Using 15/16 in socket tighten 5/8 in blade nut to specifications.
+Edge,remove the blades,Removing Mower Blades: Park machine safely. (See Parking Safely in Safety section.) Raise mower deck to gain access to mower blades. If necessary remove mower deck. Block mower blade with a piece of wood to prevent it from spinning. Loosen and remove nut (A) washer (B) and blade (C). Inspect blades; sharpen balance or replace blades as necessary. Installing Mower Blades: Position mower blade (C) with the cutting edge towards the ground. Align the splined center hole in the blade with the splined spindle shaft (D) and put the blade onto the mower spindle shaft. Install washer with cupped side towards blade and install nut to secure blade onto splined spindle shaft. Block mower blade with a piece of wood to prevent spinning and tighten nut. Using 15/16 in socket tighten 5/8 in blade nut to specifications.
 John Deere,has a,S100
